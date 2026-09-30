@@ -1,0 +1,10 @@
+{
+  "latest_version": "1.0.4",
+  "build_number": 15,
+  "force_update": true,
+  "min_supported_version": "1.0.3",
+  "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.0.4/app-release.apk",
+  "sha256": "ca343902695ca852dbf3b6472cdc48256219688f7fe09ac896934c40e1e7e24c",
+  "release_notes": "تصحيح أخطاء.",
+  "release_date": "2026-10-01"
+}
