@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.8",
-  "build_number": 24,
+  "latest_version": "1.0.9",
+  "build_number": 31,
   "force_update": true,
-  "min_supported_version": "1.0.7",
-  "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.0.8/app-release.apk",
-  "sha256": "59f0232b270edda7e80237dda4dec8f144ef55af3878108c91c9df65a317a864",
-  "release_notes": "اصلاح اخطاء.",
-  "release_date": "2026-10-17"
+  "min_supported_version": "1.0.9",
+  "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.0.9/app-release.apk",
+  "sha256": "2bc75f461b59b3deeacdfe463efef1e31e44996d110f4e2f57061eb8ed6cbe08",
+  "release_notes": "Bugs Fixed.",
+  "release_date": "2026-10-31"
 }
