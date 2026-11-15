@@ -1,20 +1,20 @@
 {
-  "latest_version": "1.1.3",
-  "build_number": 51,
-  "force_update": true,
-  "min_supported_version": "1.1.2",
-  "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.1.3/app-release.apk",
-  "sha256": "ab1daf3cedfbb52faec3e58adc823e5b62fa472c889954067027898500d27c64",
-  "release_notes": "• نقطة البيع تفتح على أول مجموعة حسب ترتيبك\n• إصلاح الكتابة في خانات الكلفة والخصم بفاتورة المشتريات\n• عرض الفاتورة على الهاتف بخلفية واضحة\n• حماية حساب مالك المنشأة من تغيير صلاحياته بالخطأ\n• إعدادات الضريبة ورسوم الخدمة تتزامن بين أجهزة المحل\n• تنظيم بيانات المنشأة والحفاظ على كل الفواتير والبيانات القديمة\n• تحسينات أمنية",
-  "release_date": "2026-11-14",
+  "latest_version": "1.1.5",
+  "build_number": 53,
+  "force_update": false,
+  "min_supported_version": "1.1.4",
+  "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.1.5/app-release.apk",
+  "sha256": "89317c7063e48dad9ebd44244ee6d7496595f4f920d9f6bc1d51b56d45e45d74",
+  "release_notes": "• تعطيل وحذف تطبيقات التوصيل\n• كلفة سند الإدخال والإخراج تنحفظ\n• شاشة نسخة احتياطية عند إغلاق البرنامج\n• إصلاح حسابات طرق الدفع\n• شاشة الزبون دائماً بكامل الشاشة\n• إصلاحات شاشة SQL",
+  "release_date": "2026-11-15",
   "windows": {
-    "latest_version": "1.1.3",
-    "build_number": 51,
-    "force_update": true,
-    "min_supported_version": "1.1.3",
-    "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.1.3/Meyar-Setup-1.1.3.exe",
-    "sha256": "81be3f7bd2806dcf9026bb27c17af43784badee07a6106e1520ab2a32befd8ac",
-    "release_notes": "• نقطة البيع تفتح على أول مجموعة حسب ترتيبك\n• إصلاح الكتابة في خانات الكلفة والخصم بفاتورة المشتريات\n• عرض الفاتورة على الهاتف بخلفية واضحة\n• حماية حساب مالك المنشأة من تغيير صلاحياته بالخطأ\n• إعدادات الضريبة ورسوم الخدمة تتزامن بين أجهزة المحل\n• تنظيم بيانات المنشأة والحفاظ على كل الفواتير والبيانات القديمة\n• تحسينات أمنية",
-    "release_date": "2026-11-14"
+    "latest_version": "1.1.5",
+    "build_number": 53,
+    "force_update": false,
+    "min_supported_version": null,
+    "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.1.5/Meyar-Setup-1.1.5.exe",
+    "sha256": "f897278a072670d0a59a38dd0704363e8d2f4746a60a5cd5b8abb0b9aa859c19",
+    "release_notes": "• تعطيل وحذف تطبيقات التوصيل\n• كلفة سند الإدخال والإخراج تنحفظ\n• شاشة نسخة احتياطية عند إغلاق البرنامج\n• إصلاح حسابات طرق الدفع\n• شاشة الزبون دائماً بكامل الشاشة\n• إصلاحات شاشة SQL",
+    "release_date": "2026-11-15"
   }
 }
