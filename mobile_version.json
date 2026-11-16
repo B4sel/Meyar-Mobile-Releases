@@ -1,20 +1,20 @@
 {
-  "latest_version": "1.1.5",
-  "build_number": 53,
-  "force_update": false,
-  "min_supported_version": "1.1.4",
-  "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.1.5/app-release.apk",
-  "sha256": "89317c7063e48dad9ebd44244ee6d7496595f4f920d9f6bc1d51b56d45e45d74",
-  "release_notes": "• تعطيل وحذف تطبيقات التوصيل\n• كلفة سند الإدخال والإخراج تنحفظ\n• شاشة نسخة احتياطية عند إغلاق البرنامج\n• إصلاح حسابات طرق الدفع\n• شاشة الزبون دائماً بكامل الشاشة\n• إصلاحات شاشة SQL",
-  "release_date": "2026-11-15",
+  "latest_version": "1.1.6",
+  "build_number": 54,
+  "force_update": true,
+  "min_supported_version": "1.1.5",
+  "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.1.6/app-release.apk",
+  "sha256": "35322bfef3ea4b7a1dcbb31629d93ec55cab3abd5f676525cd3730c0e5bd6cce",
+  "release_notes": "• التقارير التفصيلية: 7 كشوفات بالوردية والفترة والتاريخ، مع الطباعة والتصدير\n• طابعة خاصة للتقارير، A4 أو ورق الفواتير\n• فاتورة البيع والفاتورة المبدئية بتنطبع على طابعة A4 عادية\n• كل التقارير بتنطبع حسب إعدادات الطابعات\n• فلاتر تقارير المخزون، وسجل سندات المخزون، ومسودات فاتورة المشتريات\n• رصيد افتتاحي افتراضي للوردية، ومنع صنف من الضيافة، ودرج نقود على منفذ COM\n• تحسينات بالجرد والضيافة وتصحيحات عامة",
+  "release_date": "2026-11-16",
   "windows": {
-    "latest_version": "1.1.5",
-    "build_number": 53,
-    "force_update": false,
-    "min_supported_version": null,
-    "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.1.5/Meyar-Setup-1.1.5.exe",
-    "sha256": "f897278a072670d0a59a38dd0704363e8d2f4746a60a5cd5b8abb0b9aa859c19",
-    "release_notes": "• تعطيل وحذف تطبيقات التوصيل\n• كلفة سند الإدخال والإخراج تنحفظ\n• شاشة نسخة احتياطية عند إغلاق البرنامج\n• إصلاح حسابات طرق الدفع\n• شاشة الزبون دائماً بكامل الشاشة\n• إصلاحات شاشة SQL",
-    "release_date": "2026-11-15"
+    "latest_version": "1.1.6",
+    "build_number": 54,
+    "force_update": true,
+    "min_supported_version": "1.1.6",
+    "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.1.6/Meyar-Setup-1.1.6.exe",
+    "sha256": "781fffcfd5ab6b5a11f19c07dda99734439ef6dc170b33e8d69f9f9d59d85de0",
+    "release_notes": "• التقارير التفصيلية: 7 كشوفات بالوردية والفترة والتاريخ، مع الطباعة والتصدير\n• طابعة خاصة للتقارير، A4 أو ورق الفواتير\n• فاتورة البيع والفاتورة المبدئية بتنطبع على طابعة A4 عادية\n• كل التقارير بتنطبع حسب إعدادات الطابعات\n• فلاتر تقارير المخزون، وسجل سندات المخزون، ومسودات فاتورة المشتريات\n• رصيد افتتاحي افتراضي للوردية، ومنع صنف من الضيافة، ودرج نقود على منفذ COM\n• تحسينات بالجرد والضيافة وتصحيحات عامة",
+    "release_date": "2026-11-16"
   }
 }
