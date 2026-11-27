@@ -8,13 +8,13 @@
   "release_notes": "• نقل النسخة الاحتياطية لجهاز آخر بكلمة سر، والـ PIN بيشتغل بعد الاسترجاع\n• إصلاح خطأ الشهادة بالربط مع الموقع والإيميل",
   "release_date": "2026-11-27",
   "windows": {
-    "latest_version": "1.2.4",
-    "build_number": 67,
+    "latest_version": "1.2.5",
+    "build_number": 68,
     "force_update": true,
-    "min_supported_version": "1.2.4",
-    "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.2.4/Meyar-Setup-1.2.4.exe",
-    "sha256": "5b5b257b0b1a64eb799029deb37440bd24c3a49062227e74f21f1f5c2ad67808",
-    "release_notes": "• الـ PIN بيشتغل بعد استرجاع نسخة من جهاز ثاني\n• إصلاح خطأ الشهادة (CERTIFICATE_VERIFY_FAILED) بالربط مع الموقع والإيميل",
-    "release_date": "2026-11-27"
+    "min_supported_version": "1.2.5",
+    "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.2.5/Meyar-Setup-1.2.5.exe",
+    "sha256": "110bde5d5dba0985493e34c5f718bd61e5ab555e780aacac58bb9277701dae6d",
+    "release_notes": "إصلاحات عامة.",
+    "release_date": "2026-11-28"
   }
 }
