@@ -1,20 +1,20 @@
 {
-  "latest_version": "1.2.2",
-  "build_number": 65,
+  "latest_version": "1.2.4",
+  "build_number": 67,
   "force_update": true,
-  "min_supported_version": "1.2.1",
-  "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.2.2/app-release.apk",
-  "sha256": "27dd2803dfee0805aba8e9c15c5af19862ef6c1c19cb138af2446374cdc772ab",
-  "release_notes": "التقارير بالإيميل وتصليح المزامنة السحابية\nالإرجاع بيبيّن الكمية الباقية، والتقارير بصلاحيتها\nوإصلاحات أخرى",
-  "release_date": "2026-11-25",
+  "min_supported_version": "1.2.4",
+  "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.2.4/app-release.apk",
+  "sha256": "b2dae492b91b6f05200dda912ea407905d214c15b101f8dd1304745624b1e6a9",
+  "release_notes": "• نقل النسخة الاحتياطية لجهاز آخر بكلمة سر، والـ PIN بيشتغل بعد الاسترجاع\n• إصلاح خطأ الشهادة بالربط مع الموقع والإيميل",
+  "release_date": "2026-11-27",
   "windows": {
-    "latest_version": "1.2.2",
-    "build_number": 65,
+    "latest_version": "1.2.4",
+    "build_number": 67,
     "force_update": true,
-    "min_supported_version": "1.2.2",
-    "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.2.2/Meyar-Setup-1.2.2.exe",
-    "sha256": "e566cea0df1633ec690f71ac4f59464fd8f45cff5ba030556d96fd16d6b58b56",
-    "release_notes": "التقارير بالإيميل وتصليح المزامنة السحابية\nالإرجاع بيبيّن الكمية الباقية، والتقارير بصلاحيتها\nوإصلاحات أخرى",
-    "release_date": "2026-11-25"
+    "min_supported_version": "1.2.4",
+    "download_url": "https://github.com/B4sel/Meyar-Mobile-Releases/releases/download/v1.2.4/Meyar-Setup-1.2.4.exe",
+    "sha256": "5b5b257b0b1a64eb799029deb37440bd24c3a49062227e74f21f1f5c2ad67808",
+    "release_notes": "• الـ PIN بيشتغل بعد استرجاع نسخة من جهاز ثاني\n• إصلاح خطأ الشهادة (CERTIFICATE_VERIFY_FAILED) بالربط مع الموقع والإيميل",
+    "release_date": "2026-11-27"
   }
 }
